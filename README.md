@@ -101,8 +101,8 @@ The following files are excluded from version control:
 
 ## Author
 
-**Teodoro Diaz**
-Cloud & Infrastructure Engineer
+**Teodoro Diaz**<br>
+Cloud & Infrastructure Engineer<br>
 [GitHub](https://github.com/teodoro-diaz) |
 [LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
 
