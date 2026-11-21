@@ -101,9 +101,10 @@ The following files are excluded from version control:
 
 ## Author
 
-Cloud Infrastructure Engineering Lab
-
-Technologies: Azure | Terraform | Linux | Git | GitHub
+**Teodoro Diaz**
+Cloud & Infrastructure Engineer
+[GitHub](https://github.com/teodoro-diaz) |
+[LinkedIn](https://www.linkedin.com/in/teodorodiazcha/)
 
 
 ## Architecture Diagram
