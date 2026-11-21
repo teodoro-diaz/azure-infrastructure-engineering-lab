@@ -110,16 +110,40 @@ Technologies: Azure | Terraform | Linux | Git | GitHub
 
 ![Azure Infrastructure Architecture](docs/architecture/azure-lab-architecture.png)
 
-## Implementation Evidence
+## 📸 Implementation Evidence
 
-### Terraform Plan
+Visual evidence collected during the deployment, validation, and cleanup of the Azure infrastructure using Terraform.
+
+### ⚙️ 1. Terraform Initialization
+
+![Terraform Init](evidence/screenshots/00-terraform-init.png)
+
+### 📋 2. Terraform Plan
+
 ![Terraform Plan](evidence/screenshots/01-terraform-plan.png)
 
-### Terraform Apply
+### 🚀 3. Terraform Apply
+
 ![Terraform Apply](evidence/screenshots/02-terraform-apply.png)
 
-### SSH Connectivity
-![SSH Connectivity](evidence/screenshots/05-linux-ssh.png)
+### ☁️ 4. Azure Resources
 
-### Terraform Destroy
-![Terraform Destroy](evidence/screenshots/06-terraform-destroy.png)
+![Azure Resources](evidence/screenshots/03-azure-resources.png)
+
+### 🐧 5. Linux SSH Connectivity
+
+![Linux SSH Connectivity](evidence/screenshots/04-linux-ssh.png)
+
+### 🧹 6. Terraform Destroy
+
+![Terraform Destroy](evidence/screenshots/05-terraform-destroy.png)
+
+---
+
+### ✅ Deployment Summary
+
+- Infrastructure provisioned successfully using Terraform.
+- Azure networking and Linux virtual machine validated.
+- SSH connectivity verified using Ed25519 authentication.
+- Infrastructure successfully destroyed after validation.
+- Azure resource cleanup verified.
